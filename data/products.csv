@@ -1,0 +1,4 @@
+product_id,product_name,category,price,stock_quantity
+1,Laptop,Electronics,50000,10
+2,Phone,Electronics,20000,15
+3,Shoes,Fashion,3000,50
