@@ -81,8 +81,8 @@ Components:
 ### 1. Clone Repository
 
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/sriharshamedapati/E-Commerce-Analytics-with-Delta-Lake.git
+cd E-Commerce-Analytics-with-Delta-Lake
 ```
 
 ---
@@ -254,3 +254,4 @@ Pipeline finished successfully
 * Delta tables stored on MinIO via S3A protocol.
 * Fully automated pipeline execution.
 * Designed for reproducible deployment and evaluation.
+
